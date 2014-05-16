@@ -1,0 +1,29 @@
+body {
+	margin: 0
+	background-color: ;
+}
+
+header {
+	background-color: white
+}
+
+.left{
+	float: left;
+	font-family: Helvetica Neue;
+	font-size: 13px;
+	text-align: left
+}
+
+.right {
+	float: right;
+}
+
+.scrolltop {
+	float: left;
+	margin-left: 22%%;
+}
+
+nav, .search {
+	display: inline-block;
+}
+
