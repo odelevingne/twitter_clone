@@ -1,10 +1,10 @@
 body {
 	margin: 0
-	background-color: ;
+	background-color: #000;
 }
 
 header {
-	background-color: white
+	background-color: white;
 }
 
 .left{
@@ -27,3 +27,6 @@ nav, .search {
 	display: inline-block;
 }
 
+.left-dash {
+	background-color: gray;
+}
